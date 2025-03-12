@@ -1,5 +1,4 @@
 # 💫About Me :
-I'm currently working on Beowulf Blockchain
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/trankienkhang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trankienkhang) 
