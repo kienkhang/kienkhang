@@ -12,8 +12,68 @@ Results-oriented Frontend Engineer with over 3 years of experience transforming 
 * 🚀  I'm currently working on [Quickom](http://quickom.com)
 * 🧠  I'm currently learning AI-Assisted Development (Antigravity/Cursor/Claude)
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" alt="Ethers" title="Ethers" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/typescript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/javascript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/tailwind"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/pug" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
+  </a>
 </p>
 
 # 📊GitHub Stats :
