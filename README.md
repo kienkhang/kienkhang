@@ -14,65 +14,80 @@ Results-oriented Frontend Engineer with over 3 years of experience transforming 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40" />
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/vue" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40" />
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/nuxt" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
+  </a>
+  <a href="https://vite.dev" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/vite" width="64px" />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/typescript"
+    href="https://www.typescriptlang.org"
     target="_blank"
     rel="noreferrer"
   >
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+    <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/javascript"
     target="_blank"
     rel="noreferrer"
   >
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
+    <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/tailwind"
+    href="https://tailwindcss.com"
     target="_blank"
     rel="noreferrer"
   >
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" />
+    <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/cypress" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/pug" target="_blank" rel="noreferrer">
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/pug" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="40" height="40" />
+  </a> -->
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/graphql" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" />
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
+  </a>
+  <a href="https://gemini.google.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/gemini" width="64px" />
+  </a>
+  <a href="https://claude.ai" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
+  </a>
+  <a href="https://chatgpt.com" target="_blank" rel="noreferrer">
+    <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
   </a>
 </p>
 
